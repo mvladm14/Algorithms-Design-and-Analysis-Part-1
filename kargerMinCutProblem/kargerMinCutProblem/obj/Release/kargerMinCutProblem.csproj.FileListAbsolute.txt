@@ -1,0 +1,5 @@
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\bin\Release\kargerMinCutProblem.exe.config
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\bin\Release\kargerMinCutProblem.exe
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\bin\Release\kargerMinCutProblem.pdb
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\obj\Release\kargerMinCutProblem.exe
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\obj\Release\kargerMinCutProblem.pdb

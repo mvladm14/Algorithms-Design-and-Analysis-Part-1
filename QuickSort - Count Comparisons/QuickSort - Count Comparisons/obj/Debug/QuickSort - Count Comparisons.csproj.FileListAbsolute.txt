@@ -1,0 +1,5 @@
+c:\users\vlad\documents\visual studio 2013\Projects\QuickSort - Count Comparisons\QuickSort - Count Comparisons\bin\Debug\QuickSort - Count Comparisons.exe.config
+c:\users\vlad\documents\visual studio 2013\Projects\QuickSort - Count Comparisons\QuickSort - Count Comparisons\bin\Debug\QuickSort - Count Comparisons.exe
+c:\users\vlad\documents\visual studio 2013\Projects\QuickSort - Count Comparisons\QuickSort - Count Comparisons\bin\Debug\QuickSort - Count Comparisons.pdb
+c:\users\vlad\documents\visual studio 2013\Projects\QuickSort - Count Comparisons\QuickSort - Count Comparisons\obj\Debug\QuickSort - Count Comparisons.exe
+c:\users\vlad\documents\visual studio 2013\Projects\QuickSort - Count Comparisons\QuickSort - Count Comparisons\obj\Debug\QuickSort - Count Comparisons.pdb

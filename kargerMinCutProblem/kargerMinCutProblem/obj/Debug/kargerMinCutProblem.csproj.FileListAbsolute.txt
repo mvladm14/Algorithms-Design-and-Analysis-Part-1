@@ -1,0 +1,6 @@
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\bin\Debug\kargerMinCutProblem.exe.config
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\bin\Debug\kargerMinCutProblem.exe
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\bin\Debug\kargerMinCutProblem.pdb
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\obj\Debug\kargerMinCutProblem.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\obj\Debug\kargerMinCutProblem.exe
+c:\users\vlad\documents\visual studio 2013\Projects\kargerMinCutProblem\kargerMinCutProblem\obj\Debug\kargerMinCutProblem.pdb
